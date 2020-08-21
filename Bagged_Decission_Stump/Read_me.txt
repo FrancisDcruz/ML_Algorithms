@@ -1,0 +1,10 @@
+Write a Python program to perform bagging on the decision
+stump that you wrote in assignment 6.
+The input should be the data file and labels as in previous
+assignments. The output is the prediction of test datapoints just
+like we did in assignments one through five.
+Your program will create a bootstrapped dataset and then run
+your decision stump on it and obtain predictions labels.
+It will repeat this a 100 times and output the majority vote of
+the predictions.
+
